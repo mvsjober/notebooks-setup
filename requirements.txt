@@ -1,0 +1,11 @@
+jupyterlab
+keras
+matplotlib
+pandas
+scikit-learn
+scipy
+seaborn
+tensorboard
+tensorflow-gpu>=2.3.1
+torch>=1.6.0
+torchvision>=0.7.0
